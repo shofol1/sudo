@@ -10,5 +10,8 @@ function multy(a, b) {
 
 const r1 = sum(2, 3);
 const r2 = sub(3, 2);
+
+//f(g(a,b),h(a,b));
+
 r3 = multy(r1, r2);
 console.log(r3);
